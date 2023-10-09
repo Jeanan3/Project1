@@ -1,7 +1,7 @@
-##Code of Conduct
-Code of Conduct Credit: https://www.contributor-covenant.org/
+# Code of Conduct
+Credit: https://www.contributor-covenant.org/
 
-Contributor Covenant Code of Conduct
+### Contributor Covenant Code of Conduct
 Our Pledge
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
